@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and robotics
 - 🌱 I’m currently learning  machine learning & deep learning and aerodynamics 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Please contact me if you have any question! zuokuijun13@163.com
 
 <!---
 zuokuijun/zuokuijun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
